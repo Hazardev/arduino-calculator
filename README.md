@@ -1,8 +1,8 @@
 # arduino-calculator  
   
 makeshift arduino calculator made from leftover parts...  
-created for a college thing in about a day.
-NOT A BOMB I PROMISE!!!!!
+created for a college thing in about a day.  
+NOT A BOMB I PROMISE!!!!!  
   
 ---  
   
