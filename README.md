@@ -2,7 +2,7 @@
   
 makeshift arduino calculator made from leftover parts...  
 created for a college thing in about a day.  
-NOT A BOMB I PROMISE!!!!!  
+(not a bomb)  
   
 ---  
   
